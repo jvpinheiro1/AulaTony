@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\AulaC-\Atividade\aula03\timer\timer\bin\Debug\timer.exe.config
+C:\Users\Aluno\Desktop\AulaC-\Atividade\aula03\timer\timer\bin\Debug\timer.exe
+C:\Users\Aluno\Desktop\AulaC-\Atividade\aula03\timer\timer\bin\Debug\timer.pdb
+C:\Users\Aluno\Desktop\AulaC-\Atividade\aula03\timer\timer\obj\Debug\timer.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\AulaC-\Atividade\aula03\timer\timer\obj\Debug\timer.Form1.resources
+C:\Users\Aluno\Desktop\AulaC-\Atividade\aula03\timer\timer\obj\Debug\timer.Properties.Resources.resources
+C:\Users\Aluno\Desktop\AulaC-\Atividade\aula03\timer\timer\obj\Debug\timer.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\AulaC-\Atividade\aula03\timer\timer\obj\Debug\timer.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\AulaC-\Atividade\aula03\timer\timer\obj\Debug\timer.exe
+C:\Users\Aluno\Desktop\AulaC-\Atividade\aula03\timer\timer\obj\Debug\timer.pdb
